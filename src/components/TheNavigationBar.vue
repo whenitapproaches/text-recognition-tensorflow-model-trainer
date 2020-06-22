@@ -37,6 +37,7 @@ export default {
   width: 100%;
   display: flex;
   padding: 40px 40px;
+  z-index: 100;
   &__list {
     display: flex;
     margin: auto;
